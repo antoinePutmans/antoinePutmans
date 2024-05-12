@@ -7,7 +7,7 @@
 I am a soon to be graduated computer science student from **[Haute Ecole De Vinci](https://www.vinci.be/fr/formations/informatique-de-gestion)**
 <br />
 
-I am passionate about coding and hacking and combine both disciplines in order to make security a big part of my developpement journey
+I am passionate about coding and hacking and combine both disciplines in order to make security a big part of my development journey
 
 I'm currently based in **[Brussels, Belgium.](https://www.google.com/maps/place/Brussels/@50.8552114,4.3053777,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!8m2!3d50.8476407!4d4.3571734)**
 
@@ -16,6 +16,9 @@ I have participated in multiples events in Belgium :
 <br /> **[Odoo Hackathon 2023](https://www.odoo.com/fr_FR/event/hackathon-3-edition-4444/register)**
 
 In my free time, I also make some open source development
+<br />
+<br />
+I speak French, English and a little bit of Dutch 
 <br />
 <br />
 If you want to get in touch, you can <a href="mailto:antoine.putmans@student.vinci.be"><b>send me an email</b></a>.
