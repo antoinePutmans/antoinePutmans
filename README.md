@@ -9,7 +9,7 @@ I am a soon to be graduated computer science student from **[Haute Ecole De Vinc
 
 I am passionate about coding and hacking and combine both disciplines in order to make security a big part of my development journey
 <br />
-In my free time, I also make some open source development
+In my free time, I love to make some open source development
 
 I have participated in multiples events in Belgium :
 <br /> **[Finalist of Cyber Security Challenge Belgium 2024](https://www.cybersecuritychallenge.be/)**
