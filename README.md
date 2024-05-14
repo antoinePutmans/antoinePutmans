@@ -7,7 +7,7 @@
 I am a soon to be graduated computer science student from **[Haute Ecole De Vinci](https://www.vinci.be/fr/formations/informatique-de-gestion)**
 <br />
 
-I am passionate about programme and cybersecurity and combine both disciplines in order to make security a big part of my development journey
+I am passionate about programming and cybersecurity and combine both disciplines in order to make security a big part of my development journey
 <br />
 In my free time, I love to make some open source development
 
