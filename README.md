@@ -1,7 +1,6 @@
 <div align="center">
     <h2> Welcome to my github profile 
 <br />
-        <img src="https://media3.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif?cid=6c09b952qmae2tgr2cyephofbfepp45m3q3c6r7go7lacl3j&ep=v1_gifs_search&rid=200w.gif&ct=g" width="" alt="wave hand">
     </h2>
 
 I am a soon to be graduated computer science student from **[Haute Ecole De Vinci](https://www.vinci.be/fr/formations/informatique-de-gestion)**
