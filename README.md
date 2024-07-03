@@ -3,7 +3,7 @@
 <br />
     </h2>
 
-I am a graduated software developper student from **[Haute Ecole De Vinci](https://www.vinci.be/fr/formations/informatique-de-gestion)**
+I am a graduated software developper student from **[Haute Ecole De Vinci](https://www.vinci.be/fr/formations/informatique-developpement-applications)**
 <br />
 
 I am passionate about programming and cybersecurity and combine both disciplines in order to make security a big part of my development journey
