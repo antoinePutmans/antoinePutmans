@@ -8,7 +8,6 @@ I am a graduated software developper student from **[Haute Ecole De Vinci](https
 
 I am passionate about programming and cybersecurity and combine both disciplines in order to make security a big part of my development journey
 <br />
-In my free time, I love to make some open source development
 
 I have participated in multiples events in Belgium :
 <br /> **[Finalist of Cyber Security Challenge Belgium 2024](https://www.cybersecuritychallenge.be/)**
