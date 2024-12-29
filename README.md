@@ -32,11 +32,10 @@ If you want to get in touch, feel free to <a href="mailto:antoine.putmans@studen
 
 ## Tech Stack
 <br />
-<a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://d7umqicpi7263.cloudfront.net/img/product/ec81e4a1-5277-4d8e-9cdb-1d9b8b205af3.png" alt="Mendix"></a>
 <a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"></a>
-<a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"></a>
-<a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img margin="10px" height="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="C#"></a>
 <a margin="10" href="https://www.rust-lang.org/" target="_blank"><img margin="10px" height="40" src="https://rustacean.net/assets/rustacean-flat-happy.png" alt="Rust"></a>
+<a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"></a>
+<a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://d7umqicpi7263.cloudfront.net/img/product/ec81e4a1-5277-4d8e-9cdb-1d9b8b205af3.png" alt="Mendix"></a>
 <br />
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML"></a>
@@ -61,9 +60,7 @@ If you want to get in touch, feel free to <a href="mailto:antoine.putmans@studen
 <br />
 <br />
 <a margin="10" href="https://www.postgresql.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"></a>
-<a margin="10" href="https://www.mysql.com/fr/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL"></a>
 <a margin="10" href="https://www.mongodb.com/fr-fr" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB"></a>
-<a margin="10" href="https://www.oracle.com/be/database/" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle"></a>
 </div>
 <br />
 <div align="center">
